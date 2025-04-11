@@ -1,3 +1,4 @@
+I am kind of the
 # " D E V "
 
-Hi! I am (kinda) a game developer. Welcome to my site.
+Welcome to my site.
